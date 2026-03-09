@@ -97,3 +97,6 @@ The objective of this project is to demonstrate:
 
 ---
 
+Dashboard Snapshot:
+![Dashboard Preview](https://github.com/Yash-Khanolkar/HR-Analytics-Employee-Attrition-Dashboard/blob/main/HR_dashboard_preview.png)
+
